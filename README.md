@@ -1,6 +1,6 @@
 ## GOOG Stock Price prediction model using ML Regression in Python
 
-The model was created using sklearn built-in regression model from the current datas of GOOG Stock. 
+The model was created using sklearn built-in regression model from the current data of GOOG Stock. 
 
 The program can be started via `gooogstock_predict.exe`. After running it, it gives out two graphs, one at a time, then the evaluation of the actual and predicted datas. If you want to run the program without the .exe file, you will need to have the following Python libraries installed: `matplotlib`, `pandas`, `numpy` and `sklearn`.
 
