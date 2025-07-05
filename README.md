@@ -6,6 +6,6 @@ The program can be started via `gooogstock_predict.exe`. After running it, it gi
 
 In case you want to try the model out with your own data, please pay attention to the following:
 
-- The file name must be named as `goog_stock`.
+- The file must be named as `goog_stock`.
 - The fileformat should be `.csv`.
 - There must be columns with the same name and format as in `goog_stock.csv`. For instance: columns with the name of `Date`, `Open`, `High`, `Low`, `Close`, `Volume` are excepted to be in it.
