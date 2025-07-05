@@ -1,4 +1,4 @@
-## GOOG Stock Price prediction model using ML Regression in Python
+## GOOG Stock Price Prediction Model using ML Regression in Python
 
 The model was created using sklearn built-in regression model from the current data of GOOG Stock. 
 
